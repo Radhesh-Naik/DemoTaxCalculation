@@ -1,0 +1,20 @@
+The appplication developed is an console app which takes input from user, I am learning to use the app as suggested using Producer-Consumer
+pattern. Also trying to add valid unit test cases.
+
+I have used Xunit for preforming unit testing but as not familiar, I am trying to understand TDD and write proper test cases.
+
+Each operation has its own Interface declared and implemented in separete class files.
+
+The application has been divided based on two functionality 
+	1) Compute tax for an existing municipal
+	2) Add a new Municipal
+
+- The Municipal details are stored in MunicipalDetails.json file. The location for the file is stored in the appsettings.json file.
+- Initially the user will be prompted for the functionality to perform.
+- Based on the option selected the application operates taking timely inputes from the user.
+
+File Operations: IFileOperations->FileOperations.cs(Methods:GetFile,ReadDataFromFile)
+CalculateTax: ITaxCalculation->TaxCalculation.cs(Methods:GetSpecificMunicipalTax,GetMunicipalTaxDetails,ComputeTax)
+Add New Municipal:IInsertNewMunicipalDetails->InsertNewMunicipalDetails(Methods:InsertDatatoFile)
+
+Model: TaxModel.cs (To store the tax details for a Municipal)

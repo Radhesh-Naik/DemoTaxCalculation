@@ -1,0 +1,12 @@
+C:\Users\Radhesh.Naik\source\repos\DemoTaxCalculation\DemoTaxCalculation\bin\Debug\netcoreapp2.1\DemoTaxCalculation.deps.json
+C:\Users\Radhesh.Naik\source\repos\DemoTaxCalculation\DemoTaxCalculation\bin\Debug\netcoreapp2.1\DemoTaxCalculation.runtimeconfig.json
+C:\Users\Radhesh.Naik\source\repos\DemoTaxCalculation\DemoTaxCalculation\bin\Debug\netcoreapp2.1\DemoTaxCalculation.runtimeconfig.dev.json
+C:\Users\Radhesh.Naik\source\repos\DemoTaxCalculation\DemoTaxCalculation\bin\Debug\netcoreapp2.1\DemoTaxCalculation.dll
+C:\Users\Radhesh.Naik\source\repos\DemoTaxCalculation\DemoTaxCalculation\bin\Debug\netcoreapp2.1\DemoTaxCalculation.pdb
+C:\Users\Radhesh.Naik\source\repos\DemoTaxCalculation\DemoTaxCalculation\obj\Debug\netcoreapp2.1\DemoTaxCalculation.csprojAssemblyReference.cache
+C:\Users\Radhesh.Naik\source\repos\DemoTaxCalculation\DemoTaxCalculation\obj\Debug\netcoreapp2.1\DemoTaxCalculation.AssemblyInfoInputs.cache
+C:\Users\Radhesh.Naik\source\repos\DemoTaxCalculation\DemoTaxCalculation\obj\Debug\netcoreapp2.1\DemoTaxCalculation.AssemblyInfo.cs
+C:\Users\Radhesh.Naik\source\repos\DemoTaxCalculation\DemoTaxCalculation\obj\Debug\netcoreapp2.1\DemoTaxCalculation.dll
+C:\Users\Radhesh.Naik\source\repos\DemoTaxCalculation\DemoTaxCalculation\obj\Debug\netcoreapp2.1\DemoTaxCalculation.pdb
+C:\Users\Radhesh.Naik\source\repos\DemoTaxCalculation\DemoTaxCalculation\obj\Debug\netcoreapp2.1\DemoTaxCalculation.genruntimeconfig.cache
+C:\Users\Radhesh.Naik\source\repos\DemoTaxCalculation\DemoTaxCalculation\obj\Debug\netcoreapp2.1\DemoTaxCalculation.csproj.CoreCompileInputs.cache
